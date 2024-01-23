@@ -17,7 +17,7 @@ fun AffirmationList(affirmationList: List<Affirmation>, modifier: Modifier = Mod
 }
 ```
 
-### LazyVerticalGrid
+## LazyVerticalGrid
 
 LazyVerticalGrid는 열이 여러 개인 LazyColumn이다. 
 
